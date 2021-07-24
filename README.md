@@ -11,3 +11,8 @@ Curso da Plataforma Digital Innovation One
 - Passo a passo no ciclo de vida
 - Trabalhando com o GitHub
 - Como os conflitos acontecem no GitHub e como resolvê-los
+
+
+
+:woman_student:
+
